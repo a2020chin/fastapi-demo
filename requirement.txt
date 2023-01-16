@@ -1,0 +1,9 @@
+fastapi[all]==0.89.1
+aioredis==2.0.1
+PyJWT==2.6.0
+python-dotenv==0.21.0
+tortoise-orm[aiomysql]==0.19.2
+qrcode[pil]==7.3.1
+python-alipay-sdk==3.1.2
+passlib==1.7.4
+sqlmodel==0.0.8
