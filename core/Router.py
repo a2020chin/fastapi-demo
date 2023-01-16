@@ -5,11 +5,9 @@
 @Des: 路由整合
 """
 
-
 from api.Base import ApiRouter
 from views.Base import ViewsRouter
 from fastapi import APIRouter
-
 
 AllRouter = APIRouter()
 # 視圖路由
